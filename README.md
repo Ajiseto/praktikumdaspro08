@@ -5,8 +5,6 @@ kelas:  Ti-1i
 
 
 
-
-
 import java.util.Scanner;
 
 public class ProgramPenjualan {
@@ -60,3 +58,8 @@ public class ProgramPenjualan {
         input.close();
     }
 }
+
+<img width="786" height="182" alt="Screenshot 2026-11-03 174752" src="https://github.com/user-attachments/assets/3a883ce4-76bc-43ca-a2da-94b3554eda4b" />
+
+
+
